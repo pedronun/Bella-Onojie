@@ -116,12 +116,14 @@ export const Button = styled.div`
 
 export const PhonesContainer = styled.div`
   margin-top: -230px;
+  display: flex;
+  justify-content: center;
 
   @media only screen and (max-device-width: 425px) {
     margin-top: 0px;
 
     img {
-      width: 425px;
+      width: 375px;
     }
   }
 `;
