@@ -1,7 +1,6 @@
 # Bella Onojie
 ## Teste criado para fins avaliativos da Din Digital
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 Tecnologias usadas durante o desenvolvimento:
 
 - ReactJs
