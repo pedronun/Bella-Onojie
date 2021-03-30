@@ -27,7 +27,6 @@ export const List = styled.ul<ListProps>`
     position: fixed;
     top: 0;
     right: 0;
-    height: 100vh;
     width: 300px;
 
     transform: ${({ open }) => (open ? "translateX(0)" : "translateX(100%)")};
